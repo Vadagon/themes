@@ -1,0 +1,36 @@
+{
+   "description": "Light green theme. Eyes care.",
+   "manifest_version": 2,
+   "name": "Minimalist Ice Cream Lover",
+   "short_name": "Ice Cream",
+   "theme": {
+      "colors": {
+         "frame": [ 125, 206, 189 ],
+         "ntp_background": [ 125, 206, 189 ],
+         "ntp_section": [ 22, 22, 22, 0.8 ],
+         "ntp_section_link": [ 255,255, 255 ],
+         "toolbar": [ 145, 226, 209 ],
+
+         "bookmark_text": [ 55, 55, 55 ],
+         "ntp_section_text": [ 55, 55, 55 ],
+         "ntp_text": [ 55, 55, 55 ],
+         "tab_background_text": [ 55, 55, 55 ],
+         "tab_text": [ 55, 55, 55 ]
+      },
+      "images": {
+         "theme_ntp_background": "images/theme_ntp_background.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "",
+         "ntp_background_repeat": "repeat",
+         "ntp_logo_alternate": 1
+      },
+      "tints": {
+         "background_tab": [ 0.5, 0.2, 0.5 ],
+         "buttons": [ 0.953, 0.1, 0.4 ],
+         "frame_incognito": [ 0.46, 0.2,0.35 ],
+         "frame_incognito_inactive": [ 0.76, 0.86, 0.82 ]
+      }
+   },
+   "version": "1.0"
+}
